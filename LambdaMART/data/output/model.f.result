@@ -1,0 +1,10 @@
+scoreOnline:ERR3 0.3698379186745765
+scoreOnline:WithNotLabel 0.3698379186745765
+scoreOnline:WithoutNotLabel 0.3698379186745765
+scoreOnTrainingData 20 : 15.6934
+score@leaf 20 ERR3: 0.3674
+winRatio@leaf 20 ERR3: 0.4926
+score@leaf 20 WithNotLabel: 0.3674
+winRatio@leaf 20 WithNotLabel: 0.4932
+score@leaf 20 WithoutNotLabel: 0.3674
+winRatio@leaf 20 WithoutNotLabel: 0.4932
